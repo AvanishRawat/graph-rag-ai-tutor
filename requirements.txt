@@ -1,0 +1,12 @@
+flask
+pymongo
+networkx
+numpy
+sentence-transformers
+torch
+pdfplumber
+beautifulsoup4
+requests
+pyvis
+ollama
+yt-dlp
